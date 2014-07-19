@@ -46,7 +46,6 @@
 
         <button id="add-notification" data-l10n-id="add-notification">Add notification</button>
 <button id="gettime" >Get time</button>
-<centre><h2 id="bv"></h2></centre>
 
         </div>
 
