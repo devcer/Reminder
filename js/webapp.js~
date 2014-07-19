@@ -43,7 +43,7 @@ var minu =  currentdate.getMinutes();
 var sec =  currentdate.getSeconds();
 (sec<10)?(sec="0"+sec):sec; 
 var datetime=hour+":"+minu+":"+sec;
-document.getElementById("bv").innerHTML=datetime;
+document.getElementById("bv").ihnnerHTML=datetime;
         };
     }
 
